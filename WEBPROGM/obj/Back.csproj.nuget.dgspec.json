@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\web final\\back\\WEBPROGM\\Back.csproj": {}
+    "E:\\projects\\CourseProject\\WEBPROGM\\Back.csproj": {}
   },
   "projects": {
-    "E:\\projects\\web final\\back\\WEBPROGM\\Back.csproj": {
+    "E:\\projects\\CourseProject\\WEBPROGM\\Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\web final\\back\\WEBPROGM\\Back.csproj",
+        "projectUniqueName": "E:\\projects\\CourseProject\\WEBPROGM\\Back.csproj",
         "projectName": "Back",
-        "projectPath": "E:\\projects\\web final\\back\\WEBPROGM\\Back.csproj",
+        "projectPath": "E:\\projects\\CourseProject\\WEBPROGM\\Back.csproj",
         "packagesPath": "C:\\Users\\shimp\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\web final\\back\\WEBPROGM\\obj\\",
+        "outputPath": "E:\\projects\\CourseProject\\WEBPROGM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

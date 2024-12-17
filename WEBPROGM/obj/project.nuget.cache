@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YFfhcH6hmsE=",
+  "dgSpecHash": "4Y0l+Ir3ac8=",
   "success": true,
-  "projectFilePath": "E:\\projects\\web final\\back\\WEBPROGM\\Back.csproj",
+  "projectFilePath": "E:\\projects\\CourseProject\\WEBPROGM\\Back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shimp\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\shimp\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\CourseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\services\\servicesrealisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\servicesrealisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\services\\inmemorymessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\services\\inmemorymessagebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\models\\itemcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\models\\itemcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\controller\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\controller\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\controller\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\controller\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|e:\\projects\\courseproject\\webprogm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E3EA2-C592-40DF-B29D-D6271EC58961}|WEBPROGM\\Back.csproj|solutionrelative:webprogm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesRealisation.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Services\\ServicesRealisation.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\ServicesRealisation.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Services\\ServicesRealisation.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\ServicesRealisation.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:53.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryMessageBroker.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Services\\InMemoryMessageBroker.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Services\\InMemoryMessageBroker.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Services\\InMemoryMessageBroker.cs",
+              "RelativeToolTip": "WEBPROGM\\Services\\InMemoryMessageBroker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:47.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Models\\Order.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Models\\Order.cs",
+              "RelativeToolTip": "WEBPROGM\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemCard.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Models\\ItemCard.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Models\\ItemCard.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Models\\ItemCard.cs",
+              "RelativeToolTip": "WEBPROGM\\Models\\ItemCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:43.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Controller\\UserController.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Controller\\UserController.cs",
+              "RelativeToolTip": "WEBPROGM\\Controller\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:40.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Controller\\OrderController.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Controller\\OrderController.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Controller\\OrderController.cs",
+              "RelativeToolTip": "WEBPROGM\\Controller\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Controller\\InventoryController.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Controller\\InventoryController.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Controller\\InventoryController.cs",
+              "RelativeToolTip": "WEBPROGM\\Controller\\InventoryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:37.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Controller\\AlbumController.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Controller\\AlbumController.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Controller\\AlbumController.cs",
+              "RelativeToolTip": "WEBPROGM\\Controller\\AlbumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:35.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Startup.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Startup.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Startup.cs",
+              "RelativeToolTip": "WEBPROGM\\Startup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:30.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\CourseProject\\WEBPROGM\\Program.cs",
+              "RelativeDocumentMoniker": "WEBPROGM\\Program.cs",
+              "ToolTip": "E:\\projects\\CourseProject\\WEBPROGM\\Program.cs",
+              "RelativeToolTip": "WEBPROGM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:26.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
